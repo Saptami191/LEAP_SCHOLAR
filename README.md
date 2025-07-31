@@ -27,7 +27,7 @@ This dashboard solves that by offering an intuitive, visual summary of online ch
 
 ## 🖼️ Project Overview (PDF Preview)
 
-![Project Overview](./assets/leap_overview.png)
+
 
 > 🔗 [Download full PDF](./leap.pdf)
 
